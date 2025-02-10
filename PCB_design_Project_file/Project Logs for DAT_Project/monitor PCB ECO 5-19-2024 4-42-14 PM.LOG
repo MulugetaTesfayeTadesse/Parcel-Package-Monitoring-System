@@ -1,0 +1,3 @@
+Change Component Description : Designator=9dof 2 click Old Description=Noise Click Board New Description=Noise Click Board | MikroElektronika MIKROE-2371
+Added Pin To Net: NetName=Net9dof 2 click_7 Pin=esp32s2-J1_1
+Added Room: Name=monitor_sch.

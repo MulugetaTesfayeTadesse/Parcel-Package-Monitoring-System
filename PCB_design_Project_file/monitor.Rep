@@ -1,0 +1,26 @@
+Export log for : monitor.Rep
+AddingPadStyle (Default)
+AddingPadStyle P:EX60Y60D1001
+AddingPadStyle P:SX59Y59D351
+AddingPadStyle P:EX59Y59D351
+AddingPadStyle P:EX65Y65D351
+AddingPadStyle P:SX65Y65D351
+AddingPadStyle P:EX59Y59D391
+AddingPadStyle P:SX59Y59D391
+Adding ViaStyle (Default)
+Adding ViaStyle V:EX50Y50D281
+Adding TextStyle (Default)
+Adding TextStyle T:H60W10
+Adding TextStyle T:H50W10
+Adding PatternDef HDR1X4_1
+Adding PatternDef MIKROE-2371_1
+Adding PatternDef HDR1X3_1
+Adding PatternDef XCVR_ESP32-S2-DEVKITM-1U_1
+Adding CompDef HDR1X4_1
+Adding CompDef MIKROE-2371_1
+Adding CompDef HDR1X3_1
+Adding CompDef XCVR_ESP32-S2-DEVKITM-1U_1
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+ 
+EndLog
